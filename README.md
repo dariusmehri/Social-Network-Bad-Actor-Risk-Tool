@@ -20,10 +20,10 @@ Total number of unique bad ties: Total number of bad ties to each actor \
 Bad unique tie density: Total number of unique bad ties/Total number of unique ties 
 
 #### Influence in the industry 
-Total Number of BINs: Total number of buildings they worked on \ 
+Total Number of BINs: Total number of buildings they worked on \
 Unique Number of BINs: Unique number of buildings they worked on, each BIN is counted only once 
 
-#### Membership in “bad” community (community detection analysis) \
+#### Membership in “bad” community (community detection analysis) 
 Community Membership: The name of the community in which they belong \
 Community Bad Density Unique = # Bad Unique in Community/# Number Unique in Community
 
