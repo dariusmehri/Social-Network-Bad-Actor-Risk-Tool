@@ -6,7 +6,7 @@ Each construction permit contains the names of the actors working on the project
 
 A bad actor list is generated based on previous illegal work or dispositions. 
 
-This project had two steps. 1) Among the list of known bad actors, creating a ranking system from very bad to bad. 2) Rank the most recent permits as high or low risk based on risk tool
+This project had two steps. 1) Among the list of known bad actors, creating a ranking system from very bad to bad. 2) Rank the most recent permits as high or low risk based on risk tool (see below measures)
 
 ### Risk Tool Measures: 
 #### Transactional
