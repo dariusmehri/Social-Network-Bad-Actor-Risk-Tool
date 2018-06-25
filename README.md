@@ -10,12 +10,9 @@ This project had two steps. 1) Among the list of known bad actors, creating a ra
 
 Risk Tool Measures: \
 Transactional type \
-
-Total number of ties: Total number of ties each actor has in the network
-
-Total number of bad ties: Total number of bad ties to each actor
-
-Bad tie density: Total number of bad ties/Total number of ties
+Total number of ties: Total number of ties each actor has in the network \
+Total number of bad ties: Total number of bad ties to each actor \
+Bad tie density: Total number of bad ties/Total number of ties \
 
 
 
