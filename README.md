@@ -8,9 +8,8 @@ A bad actor list is generated based on previous illegal work or dispositions.
 
 This project had two steps. 1) Among the list of known bad actors, creating a ranking system from very bad to bad. 2) Rank the most recent permits as high or low risk based on risk tool
 
-Risk Tool Measures:
-
-Transactional type 
+Risk Tool Measures: \
+Transactional type \
 
 Total number of ties: Total number of ties each actor has in the network
 
