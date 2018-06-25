@@ -9,7 +9,7 @@ A bad actor list is generated based on previous illegal work or dispositions.
 This project had two steps. 1) Among the list of known bad actors, creating a ranking system from very bad to bad. 2) Rank the most recent permits as high or low risk based on risk tool
 
 ### Risk Tool Measures: 
-#### Transactional type \
+#### Transactional
 Total number of ties: Total number of ties each actor has in the network \
 Total number of bad ties: Total number of bad ties to each actor \
 Bad tie density: Total number of bad ties/Total number of ties 
@@ -17,7 +17,7 @@ Bad tie density: Total number of bad ties/Total number of ties
 #### Bad Actor Work Relationships 
 Total number of unique ties: Total number of ties each actor has in the network \
 Total number of unique bad ties: Total number of bad ties to each actor \
-Bad unique tie density: Total number of unique bad ties/Total number of unique ties \
+Bad unique tie density: Total number of unique bad ties/Total number of unique ties 
 
 #### Influence in the industry 
 Total Number of BINs: Total number of buildings they worked on \ 
