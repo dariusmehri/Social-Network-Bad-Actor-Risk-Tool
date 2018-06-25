@@ -28,6 +28,19 @@ Community Membership: The name of the community in which they belong \
 Community Bad Density Unique = # Bad Unique in Community/# Number Unique in Community
 
 
+### Network analysis example:
+
+Graph of the top 20 bad actors. The most central actor in the network (Shmiel Firth) recently received violation for building collapse. Yellow nodes are bad actors, white nodes are uknown bad actors.
+
+Example of community detection, clusturing of bad actor communities:
+
+
+
+
+
+
+
+
 
 
 
