@@ -39,6 +39,7 @@ Graph of the top 20 bad actors. The most central actor in the network (Shmiel Fi
 
 Example of community detection, clusturing of bad actor communities:
 
+![badactor20communities](https://user-images.githubusercontent.com/11237613/41874107-e91a4e66-7894-11e8-917d-122cc1be18ad.png)
 
 
 
