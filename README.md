@@ -19,7 +19,8 @@ Total number of unique ties: Total number of ties each actor has in the network 
 Total number of unique bad ties: Total number of bad ties to each actor \
 Bad unique tie density: Total number of unique bad ties/Total number of unique ties 
 
-#### Influence in the industry 
+#### Influence and power in the industry 
+Betweeness Centrality: Measure of actors who are powerful in the industry by brokering relationships between groups \
 Total Number of BINs: Total number of buildings they worked on \
 Unique Number of BINs: Unique number of buildings they worked on, each BIN is counted only once 
 
