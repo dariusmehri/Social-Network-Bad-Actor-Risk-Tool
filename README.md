@@ -31,7 +31,7 @@ Community Bad Density Unique = # Bad Unique in Community/# Number Unique in Comm
 
 ### Network analysis example:
 
-Graph of the top 20 bad actors. The most central actor in the network (Shmiel Firth) recently received violation for building collapse. Yellow nodes are bad actors, white nodes are uknown bad actors.
+Graph of the top 20 bad actors. The most central actor in the network (Shmiel Firth) recently received violation for building collapse. Yellow nodes are bad actors, white nodes are good actors (or unknown if they are bad).
 
 ![badactor20network](https://user-images.githubusercontent.com/11237613/41874034-b3a7dcd0-7894-11e8-8d7c-b7db34c9e729.png)
 
