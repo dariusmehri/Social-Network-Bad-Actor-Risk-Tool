@@ -1,11 +1,11 @@
 ### Social Network analysis as a Risk Tool for Building Safety
 The idea behind this project is that previous bad behavior is a good predictor of future bad behavior, and that network ties to bad actors will be a useful tool to categorize high risk construction permits for audit or inspection.
 
-The Department of Buildings issues approximately 300,000 building permits a year, a number of these permits will result in illegal work. Each construction permit contains the names of the actors working on the project. These include the owner, architect or engineer, contractor and filing representative company. Each permit produces a network of actors working at a building in New York City.
+The Department of Buildings issues approximately 300,000 building permits a year, a number of these permits will result in illegal work. Each construction permit contains the names of the actors working on the project. These include the owner, architect or engineer, contractor and the filing representative. Each permit produces a network of actors working at a building in New York City.
 
 A bad actor list is generated based on previous illegal work or dispositions. 
 
-This project had two steps. 1) Among the list of known bad actors, creating a "bad actor" ranking system from. 2) Rank the most recent permits as high or low risk based on the "badness" rank of the actors working on the project (see below measures)
+This project had two steps. 1) Among the list of known bad actors, creating a "bad actor" ranking system. 2) Rank the most recent permits as high or low risk based on the "badness" rank of the actors working on the project (see below measures)
 
 ### Risk Tool Measures: 
 #### Transactional
