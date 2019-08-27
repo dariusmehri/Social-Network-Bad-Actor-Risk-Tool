@@ -28,7 +28,7 @@ Community Membership: The name of the community in which they belong \
 Community Bad Density Unique = # Bad Unique in Community/# Number Unique in Community
 
 ### Badness Risk Calculation
-Three of the above measures were used to rank the level of "badness" among the bad actors (about 500 bad actors in all): previous DOB violations, total unique bad tie density and betweeness centrality. Total uniqe bad tie density is a measure of how many ties they have in their network that are bad, i.e. on average the people they do business with tend to engage in illegal activity. Betwneeness centrality is a measure of the actor actor as a central person in the network that is conducting bad behavior among more than one group. The actor is central in dissemnating bad behavior in the industry.
+Three of the above measures were used to rank the level of "badness" among the bad actors (about 500 bad actors in all): previous DOB violations, total unique bad tie density and betweeness centrality. Total uniqe bad tie density is a measure of how many ties they have in their network that are bad, i.e. on average the people they do business with tend to engage in illegal activity. Betwneeness centrality is a measure of the actor as a central person in the network who is conducting bad behavior among more than one group. The actor is central in dissemnating bad behavior in the industry.
 
 
 ### Network analysis example (betweeness centrality)
