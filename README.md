@@ -31,18 +31,6 @@ Community Bad Density Unique = # Bad Unique in Community/# Number Unique in Comm
 Three of the above measures were used to rank the level of "badness" among the bad actors (about 500 bad actors in all): previous DOB violations, total unique bad tie density and betweeness centrality. Total uniqe bad tie density is a measure of how many ties they have in their network that are bad, i.e. on average the people they do business with tend to engage in illegal activity. Betwneeness centrality is a measure of the actor as a key person in the network who is conducting bad behavior among several groups. The actor is therfore central in dissemnating bad behavior in the industry.
 
 
-### Network analysis example (betweeness centrality)
-
-Graph of the top 20 bad actors. The most central actor in the network (Shmiel Firth) recently received violation for building collapse. Yellow nodes are bad actors, white nodes are good actors (or unknown if they are bad).
-
-![badactor20network](https://user-images.githubusercontent.com/11237613/41874034-b3a7dcd0-7894-11e8-8d7c-b7db34c9e729.png)
-
-
-
-
-Example of community detection, clusturing of bad actor communities:
-
-![badactor20communities](https://user-images.githubusercontent.com/11237613/41874107-e91a4e66-7894-11e8-917d-122cc1be18ad.png)
 
 
 
